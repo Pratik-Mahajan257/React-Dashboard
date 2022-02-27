@@ -2,9 +2,9 @@
     flex: 1;
     height: calc(100vh - -80px);
     background-color: black;
-    width: 100%;
     position: sticky;
     top: 50px;
+    max-width: 270px;
 }
 
 .adjust {

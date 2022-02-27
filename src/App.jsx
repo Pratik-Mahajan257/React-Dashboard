@@ -9,7 +9,7 @@ function App () {
       Lorem Ipsum is simply dummy text of the printing
       </div>
       <div className='container'>
-        <Sidebar />
+      <Sidebar />
         <div className='divide'>
           |
         </div>

@@ -1,21 +1,19 @@
     .lastbar {
         flex: 1;
         height: calc(100vh - -80px);
-        width: calc(100vh - 317.7px);
         background-color: black;
         position: sticky;
         top: 50px;
+        max-width: 400px;
     }
     
     .lastbarwrapper {
         padding: 5px;
         color: #808191;
-        width: calc(100vh - 280px);
     }
     
     .lastbarmenu {
         margin-bottom: 10px;
-        width: calc(100vh - 300px);
     }
     
     .aval {
