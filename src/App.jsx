@@ -8,6 +8,7 @@ function App () {
     <div className='App'>
       Lorem Ipsum is simply dummy text of the printing
       </div>
+      <div className="aw">
       <div className='container'>
       <Sidebar />
         <div className='divide'>
@@ -17,11 +18,15 @@ function App () {
         <div className='divide1'>
           |
         </div>
-       
+        <div className="other">
         <Lastbar/>
+       </div>
+       
         
 
       </div>
+      </div>
+     
 
     </div>
 
